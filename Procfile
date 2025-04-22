@@ -1,1 +1,1 @@
-web: python3 ml_models/ml_api.py
+web: python ml_models/ml_api.py
